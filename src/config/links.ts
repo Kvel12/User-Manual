@@ -10,7 +10,7 @@ export const linksConfig: ILinkConfig = {
     actions: [
         {
             label: "Empezar",
-            to: "/docs/introduction",
+            to: "/docs/00 introduction",
         },
     ],
     navigators: [
