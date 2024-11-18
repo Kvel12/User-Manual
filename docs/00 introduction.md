@@ -1,4 +1,4 @@
-# Introducción a Visual Studio Code
+# Visual Studio Code
 
 Visual Studio Code (VS Code) es un editor de código fuente multiplataforma desarrollado por Microsoft, diseñado para facilitar el desarrollo de software en una amplia variedad de lenguajes y tecnologías. Se caracteriza por ser ligero, altamente personalizable y con soporte integrado para características como control de versiones, resaltado de sintaxis, y herramientas de depuración.
 

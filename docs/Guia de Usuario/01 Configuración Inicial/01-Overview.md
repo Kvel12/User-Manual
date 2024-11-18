@@ -8,9 +8,9 @@ VS Code es un editor de código gratuito que funciona en macOS, Linux y Windows.
 
 Sigue las guías específicas para tu plataforma a continuación:
 
-* [macOS](/docs/Guia%20de%20Usuario/Configuración%20Inicial/03-macOS)
-* [Linux](/docs/Guia%20de%20Usuario/Configuración%20Inicial/02-Linux)
-* [Windows](/docs/Guia%20de%20Usuario/Configuración%20Inicial/04-Windows)
+* [macOS](/docs/Guia%20de%20Usuario/01%20Configuraci%C3%B3n%20Inicial/macOS)
+* [Linux](/docs/Guia%20de%20Usuario/01%20Configuración%20Inicial/Linux)
+* [Windows](/docs/Guia%20de%20Usuario/01%20Configuración%20Inicial/Windows)
 
 VS Code es ligero y debería funcionar en la mayoría de los equipos y versiones de plataformas disponibles. Puedes revisar los Requisitos del Sistema para comprobar si la configuración de tu computadora es compatible.
 
