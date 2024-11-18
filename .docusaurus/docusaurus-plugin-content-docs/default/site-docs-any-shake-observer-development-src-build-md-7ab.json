@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Development/src-build",
+  "title": "Build From Source",
+  "description": "In this document manual procedures are explained (without make and continuous integration).",
+  "source": "@site/docs/AnyShake Observer/Development/src-build.md",
+  "sourceDirName": "AnyShake Observer/Development",
+  "slug": "/AnyShake Observer/Development/src-build",
+  "permalink": "/docs/AnyShake Observer/Development/src-build",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Helicorder Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/Services/helicorder"
+  },
+  "next": {
+    "title": "Build Docker Image",
+    "permalink": "/docs/AnyShake Observer/Development/docker-build"
+  }
+}

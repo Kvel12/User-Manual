@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Configuration/location",
+  "title": "Location Settings",
+  "description": "- Key: location_settings",
+  "source": "@site/docs/AnyShake Observer/Configuration/location.md",
+  "sourceDirName": "AnyShake Observer/Configuration",
+  "slug": "/AnyShake Observer/Configuration/location",
+  "permalink": "/docs/AnyShake Observer/Configuration/location",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Station Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/station"
+  },
+  "next": {
+    "title": "Explorer Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/explorer"
+  }
+}

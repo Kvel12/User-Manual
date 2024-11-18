@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Configuration/database",
+  "title": "Database Settings",
+  "description": "- Key: database_settings",
+  "source": "@site/docs/AnyShake Observer/Configuration/database.md",
+  "sourceDirName": "AnyShake Observer/Configuration",
+  "slug": "/AnyShake Observer/Configuration/database",
+  "permalink": "/docs/AnyShake Observer/Configuration/database",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NTP Client Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/ntpclient"
+  },
+  "next": {
+    "title": "Server Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/server"
+  }
+}

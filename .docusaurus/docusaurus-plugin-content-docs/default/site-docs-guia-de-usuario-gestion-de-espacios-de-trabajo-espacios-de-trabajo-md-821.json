@@ -1,0 +1,23 @@
+{
+  "id": "Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+  "title": "Workspaces",
+  "description": "¿Qué es un \"workspace\" en VS Code?",
+  "source": "@site/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo.md",
+  "sourceDirName": "Guia de Usuario/Gestión de Espacios de Trabajo",
+  "slug": "/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+  "permalink": "/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tienda de Extensiones",
+    "permalink": "/docs/Guia de Usuario/Extensiones/Tienda de Extensiones"
+  },
+  "next": {
+    "title": "Introducción a Visual Studio Code",
+    "permalink": "/docs/introduction"
+  }
+}

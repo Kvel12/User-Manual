@@ -1,0 +1,19 @@
+{
+  "id": "Guia de Usuario/Conceptos básicos",
+  "title": "Edición básica",
+  "description": "Visual Studio Code es, ante todo, un editor e incluye las funciones necesarias para una edición de código fuente altamente productiva. Este tema te guiará a través de los conceptos básicos del editor y te ayudará a comenzar con tu código.",
+  "source": "@site/docs/Guia de Usuario/Conceptos básicos.md",
+  "sourceDirName": "Guia de Usuario",
+  "slug": "/Guia de Usuario/Conceptos básicos",
+  "permalink": "/docs/Guia de Usuario/Conceptos básicos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TCP Forwarder",
+    "permalink": "/docs/AnyShake Observer/Development/tcp-forwarder"
+  }
+}

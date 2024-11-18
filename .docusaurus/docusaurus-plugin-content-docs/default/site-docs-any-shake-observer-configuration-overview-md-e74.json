@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Configuration/overview",
+  "title": "Overview",
+  "description": "AnyShake Observer relies on the JSON format configuration file, here we introduce the JSON-based configuration.",
+  "source": "@site/docs/AnyShake Observer/Configuration/overview.md",
+  "sourceDirName": "AnyShake Observer/Configuration",
+  "slug": "/AnyShake Observer/Configuration/overview",
+  "permalink": "/docs/AnyShake Observer/Configuration/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versioning",
+    "permalink": "/docs/AnyShake Observer/versioning"
+  },
+  "next": {
+    "title": "Station Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/station"
+  }
+}

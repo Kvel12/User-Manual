@@ -1,0 +1,23 @@
+{
+  "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+  "title": "Navegación en el código",
+  "description": "Visual Studio Code es un editor de código optimizado para la productividad que, al combinarse con servicios de lenguajes de programación, ofrece la potencia de un entorno de desarrollo integrado (IDE) con la velocidad de un editor de texto. En esta sección, primero describiremos las características de inteligencia de lenguaje de VS Code (como sugerencias, pistas de parámetros y navegación inteligente del código) y luego exploraremos las capacidades fundamentales del editor de texto.",
+  "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation.md",
+  "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+  "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+  "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Accesibilidad",
+    "permalink": "/docs/Guia de Usuario/Accesibilidad/"
+  },
+  "next": {
+    "title": "Emmets en Visual Studio Code",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet"
+  }
+}

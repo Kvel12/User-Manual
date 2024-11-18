@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/cli-interface",
+  "title": "CLI Interface",
+  "description": "AnyShake Observer has the following commandline parameters:",
+  "source": "@site/docs/AnyShake Observer/cli-interface.md",
+  "sourceDirName": "AnyShake Observer",
+  "slug": "/AnyShake Observer/cli-interface",
+  "permalink": "/docs/AnyShake Observer/cli-interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/AnyShake Observer/quick-start"
+  },
+  "next": {
+    "title": "Questions",
+    "permalink": "/docs/AnyShake Observer/questions"
+  }
+}

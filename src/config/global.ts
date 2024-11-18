@@ -1,11 +1,11 @@
 export const siteConfig = {
     base: "/",
-    title: "AnyShake Project",
+    title: "Visual Studio Code",
     logo: "img/logo.png",
-    favicon: "img/favicon.ico",
+    favicon: "img/fav.ico",
     social: "img/social-card.png",
-    url: "https://anyshake.com",
-    copyright: `© ${new Date().getFullYear()} AnyShake | Listen to the Whispering Earth`,
+    url: "https://code.visualstudio.com/",
+    copyright: `© ${new Date().getFullYear()} Visual Studio Code`,
     description:
-        "AnyShake is an open-source & low-cost solution to 3-component seismograph",
+        "Visual Studio Code (VS Code) es un editor de código fuente multiplataforma",
 };
