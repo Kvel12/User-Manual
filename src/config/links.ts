@@ -9,7 +9,7 @@ interface ILinkConfig {
 export const linksConfig: ILinkConfig = {
     actions: [
         {
-            label: "Get Started",
+            label: "Empezar",
             to: "/docs/introduction",
         },
     ],
@@ -18,17 +18,12 @@ export const linksConfig: ILinkConfig = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Documentation",
-        },
-        {
-            to: "/donation",
-            label: "Donation",
-            position: "left",
+            label: "Documentación",
         },
         {
             label: "GitHub",
             position: "right",
-            href: "https://github.com/anyshake",
+            href: "https://github.com/Kvel12/User-Manual",
         },
     ],
 };

@@ -31,12 +31,12 @@ No necesitas hacer nada para que una carpeta se convierta en un espacio de traba
 
 También puedes agregar otras configuraciones específicas de la carpeta, como configuraciones del espacio de trabajo (en lugar de configuraciones globales de usuario), definiciones de tareas y archivos de lanzamiento de depuración (ver más abajo en la sección de configuraciones del espacio de trabajo).
 
-![singlefolderworkspace](/img/user-guide/extensions/single-folder-workspace.png)
+![singlefolderworkspace](/img/user-guide/workspaces/single-folder-workspace.png)
 Ejemplo de un espacio de trabajo de una sola carpeta abierto dentro de VS Code
 
 ## Espacios de trabajo de múltiples raíces
 
-Los espacios de trabajo de múltiples raíces son una capacidad avanzada de VS Code que te permite configurar varias carpetas distintas para que formen parte del mismo espacio de trabajo. En lugar de abrir una carpeta como espacio de trabajo, abres un archivo JSON <name>.code-workspace que enumera todas las carpetas del espacio de trabajo. Por ejemplo:
+Los espacios de trabajo de múltiples raíces son una capacidad avanzada de VS Code que te permite configurar varias carpetas distintas para que formen parte del mismo espacio de trabajo. En lugar de abrir una carpeta como espacio de trabajo, abres un archivo JSON `<name>`.code-workspace que enumera todas las carpetas del espacio de trabajo. Por ejemplo:
 
 ```json
 {
@@ -51,7 +51,7 @@ Los espacios de trabajo de múltiples raíces son una capacidad avanzada de VS C
 }
 ```
 
-![multirootworkspace](/img/user-guide/extensions/multi-root-workspace.png)
+![multirootworkspace](/img/user-guide/workspaces/multi-root-workspace.png)
 
 Ejemplo de un espacio de trabajo de múltiples raíces abierto en VS Code.
 
@@ -60,13 +60,13 @@ Ejemplo de un espacio de trabajo de múltiples raíces abierto en VS Code.
 ### Espacios de trabajo multi-raíz sin título
 Puedes agregar o quitar carpetas en tu espacio de trabajo de manera flexible. Comienza abriendo una carpeta en VS Code y, luego, puedes agregar más carpetas según lo necesites.
 
-![addremovefolderinworkspace](/img/user-guide/extensions/add-remove-folder-in-workspace.png)
+![addremovefolderinworkspace](/img/user-guide/workspaces/add-remove-folder-in-workspace.png)
 
 Menú contextual del Explorador de archivos para agregar o eliminar una carpeta en un espacio de trabajo
 
 A menos que ya hayas abierto un archivo .code-workspace, la primera vez que agregas una segunda carpeta a un espacio de trabajo, VS Code crea automáticamente un espacio de trabajo sin título. En segundo plano, VS Code mantiene automáticamente un archivo untitled.code-workspace que contiene todas las carpetas y configuraciones del espacio de trabajo de tu sesión actual. El espacio de trabajo permanece sin título hasta que decidas guardarlo en el disco.
 
-![untitledworkspace](/img/user-guide/extensions/untitled-workspace.png)
+![untitledworkspace](/img/user-guide/workspaces/untitled-workspace.png)
 
 Un espacio de trabajo sin título abierto en VS Code
 
@@ -79,7 +79,7 @@ Las configuraciones del espacio de trabajo te permite configurar ajustes en el c
 
 Las configuraciones del espacio de trabajo se almacenan en .vscode/settings.json cuando abres una carpeta como espacio de trabajo.
 
-![singlefoldersettings](/img/user-guide/extensions/single-folder-settings.png)
+![singlefoldersettings](/img/user-guide/workspaces/single-folder-settings.png)
 
 El editor de configuraciones cuando una carpeta está abierta como espacio de trabajo.
 
@@ -89,7 +89,7 @@ Cuando abres un archivo .code-workspace como espacio de trabajo, todas las confi
 
 Aún puedes configurar configuraciones por carpeta raíz, y el editor de configuraciones presentará un tercer alcance de configuración llamado Configuración de la carpeta:
 
-![multirootsettings](/img/user-guide/extensions/multi-root-settings.png)
+![multirootsettings](/img/user-guide/workspaces/multi-root-settings.png)
 
 El editor de configuraciones cuando se abre un espacio de trabajo con múltiples raíces
 

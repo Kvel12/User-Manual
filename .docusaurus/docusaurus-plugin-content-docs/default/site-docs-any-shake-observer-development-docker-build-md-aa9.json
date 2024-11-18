@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Development/docker-build",
+  "title": "Build Docker Image",
+  "description": "In this document, we will guide you through building a Docker image for AnyShake Observer.",
+  "source": "@site/docs/AnyShake Observer/Development/docker-build.md",
+  "sourceDirName": "AnyShake Observer/Development",
+  "slug": "/AnyShake Observer/Development/docker-build",
+  "permalink": "/docs/AnyShake Observer/Development/docker-build",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build From Source",
+    "permalink": "/docs/AnyShake Observer/Development/src-build"
+  },
+  "next": {
+    "title": "API Documentation",
+    "permalink": "/docs/AnyShake Observer/Development/api-docs"
+  }
+}

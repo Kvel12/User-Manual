@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Explorer/test/hardware",
+  "title": "Hardware",
+  "description": "Please note: AnyShake Explorer implemented by ESP8266 will be deprecated soon, the new hardware solution is currently in the \"next\" branch and will be merged into the master branch.",
+  "source": "@site/docs/AnyShake Explorer/test/hardware.md",
+  "sourceDirName": "AnyShake Explorer/test",
+  "slug": "/AnyShake Explorer/test/hardware",
+  "permalink": "/docs/AnyShake Explorer/test/hardware",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADC 24 Bit Mode",
+    "permalink": "/docs/AnyShake Explorer/Customization/bit-mode"
+  },
+  "next": {
+    "title": "Firmware",
+    "permalink": "/docs/AnyShake Explorer/test/firmware"
+  }
+}

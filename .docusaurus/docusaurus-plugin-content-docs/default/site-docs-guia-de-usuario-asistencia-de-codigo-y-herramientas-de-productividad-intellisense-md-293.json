@@ -1,0 +1,23 @@
+{
+  "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+  "title": "IntelliSense",
+  "description": "IntelliSense es un término general que abarca diversas características de edición de código, como:",
+  "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense.md",
+  "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+  "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+  "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emmets en Visual Studio Code",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet"
+  },
+  "next": {
+    "title": "Refactorización",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización"
+  }
+}

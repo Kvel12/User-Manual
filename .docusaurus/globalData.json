@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Guia de Usuario/Accesibilidad/Accesibilidad",
+          "docs": [
+            {
+              "id": "Guia de Usuario/Accesibilidad/Accesibilidad",
+              "path": "/docs/Guia de Usuario/Accesibilidad/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+              "path": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+              "path": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+              "path": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización",
+              "path": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets",
+              "path": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Conceptos básicos/Edición básica",
+              "path": "/docs/Guia de Usuario/Conceptos básicos/Edición básica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Depuración y Pruebas/Depuración",
+              "path": "/docs/Guia de Usuario/Depuración y Pruebas/Depuración",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Depuración y Pruebas/Pruebas",
+              "path": "/docs/Guia de Usuario/Depuración y Pruebas/Pruebas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Extensiones/Tienda de Extensiones",
+              "path": "/docs/Guia de Usuario/Extensiones/Tienda de Extensiones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+              "path": "/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Guia de Usuario/Accesibilidad/",
+                "label": "Accesibilidad"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

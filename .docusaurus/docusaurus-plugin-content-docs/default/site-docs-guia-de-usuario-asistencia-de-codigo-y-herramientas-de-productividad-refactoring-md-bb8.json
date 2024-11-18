@@ -1,0 +1,23 @@
+{
+  "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactoring",
+  "title": "Refactorización",
+  "description": "El refactorizado del código fuente puede mejorar la calidad y mantenibilidad de tu proyecto al reestructurar el código, sin modificar el comportamiento en tiempo de ejecución. Visual Studio Code admite operaciones de refactorización (como Extraer Método y Extraer Variable) para mejorar tu base de código directamente desde el editor.",
+  "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactoring.md",
+  "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+  "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactoring",
+  "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IntelliSense",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense"
+  },
+  "next": {
+    "title": "Snippets en Visual Studio Code",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets"
+  }
+}

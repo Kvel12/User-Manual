@@ -1,0 +1,23 @@
+{
+  "id": "Guia de Usuario/Depuración y Pruebas/Pruebas",
+  "title": "Pruebas",
+  "description": "Las pruebas de software son un aspecto crucial del proceso de desarrollo. Ayudan a garantizar que tu código funcione como se espera y a detectar errores temprano en el ciclo de desarrollo. Visual Studio Code ofrece un conjunto rico de funciones para realizar pruebas en tu código. Puedes descubrir automáticamente pruebas en tu proyecto, ejecutarlas, depurarlas y obtener resultados de cobertura de pruebas.",
+  "source": "@site/docs/Guia de Usuario/Depuración y Pruebas/Pruebas.md",
+  "sourceDirName": "Guia de Usuario/Depuración y Pruebas",
+  "slug": "/Guia de Usuario/Depuración y Pruebas/Pruebas",
+  "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Pruebas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Depuración",
+    "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Depuración"
+  },
+  "next": {
+    "title": "Tienda de Extensiones",
+    "permalink": "/docs/Guia de Usuario/Extensiones/Tienda de Extensiones"
+  }
+}

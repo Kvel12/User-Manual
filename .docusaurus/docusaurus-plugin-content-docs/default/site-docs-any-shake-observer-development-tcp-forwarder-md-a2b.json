@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Development/tcp-forwarder",
+  "title": "TCP Forwarder",
+  "description": "The AnyShake Observer provides a forwarder service that binds to a specific host and port to forward data to other services. This is useful when you want to forward seismic data to other services. The message format is NMEA-like, here is an example:",
+  "source": "@site/docs/AnyShake Observer/Development/tcp-forwarder.md",
+  "sourceDirName": "AnyShake Observer/Development",
+  "slug": "/AnyShake Observer/Development/tcp-forwarder",
+  "permalink": "/docs/AnyShake Observer/Development/tcp-forwarder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Related Libraries",
+    "permalink": "/docs/AnyShake Observer/Development/related-lib"
+  },
+  "next": {
+    "title": "Accesibilidad",
+    "permalink": "/docs/Guia de Usuario/Accesibilidad/"
+  }
+}

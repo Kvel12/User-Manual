@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Configuration/server",
+  "title": "Server Settings",
+  "description": "- Key: server_settings",
+  "source": "@site/docs/AnyShake Observer/Configuration/server.md",
+  "sourceDirName": "AnyShake Observer/Configuration",
+  "slug": "/AnyShake Observer/Configuration/server",
+  "permalink": "/docs/AnyShake Observer/Configuration/server",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/database"
+  },
+  "next": {
+    "title": "Logger Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/logger"
+  }
+}

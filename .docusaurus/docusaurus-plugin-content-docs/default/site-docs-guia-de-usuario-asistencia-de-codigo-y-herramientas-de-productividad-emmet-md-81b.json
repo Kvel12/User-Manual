@@ -1,0 +1,23 @@
+{
+  "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+  "title": "Emmets en Visual Studio Code",
+  "description": "Emmet es una herramienta que permite escribir código HTML y CSS de forma más rápida y eficiente mediante el uso de abreviaturas o atajos que se expanden automáticamente en estructuras completas. Por ejemplo, al escribir div.container>ul>li*3, se genera un bloque de HTML equivalente a un ` con una lista  que contiene tres elementos `. El soporte para snippets y expansión de Emmet está integrado directamente en Visual Studio Code, sin necesidad de extensiones. Emmet 2.0 es compatible con la mayoría de las acciones de Emmet, incluidas la expansión de abreviaturas y snippets de Emmet.",
+  "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet.md",
+  "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+  "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+  "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navegación en el código",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation"
+  },
+  "next": {
+    "title": "IntelliSense",
+    "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense"
+  }
+}

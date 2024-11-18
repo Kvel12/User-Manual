@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/donation",
+  "source": "@site/src/pages/donation.md",
+  "title": "Donation",
+  "description": "Donate to the AnyShake project, your donation is highly appreciated.",
+  "frontMatter": {
+    "title": "Donation",
+    "description": "Donate to the AnyShake project, your donation is highly appreciated.",
+    "hide_table_of_contents": true
+  },
+  "unlisted": false
+}

@@ -1,0 +1,431 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/app/sidebars.ts",
+          "contentPath": "/app/docs",
+          "contentPathLocalized": "/app/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Guia de Usuario/Accesibilidad/Accesibilidad",
+              "title": "Accesibilidad",
+              "description": "Visual Studio Code tiene muchas características para hacer que el editor sea accesible para todos los usuarios. Los niveles de zoom y los colores de alto contraste mejoran la visibilidad del editor, la navegación solo con teclado soporta el uso sin un ratón, y el editor está optimizado para lectores de pantalla.",
+              "source": "@site/docs/Guia de Usuario/Accesibilidad/Accesibilidad.md",
+              "sourceDirName": "Guia de Usuario/Accesibilidad",
+              "slug": "/Guia de Usuario/Accesibilidad/",
+              "permalink": "/docs/Guia de Usuario/Accesibilidad/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Navegación en el código",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+              "title": "Navegación en el código",
+              "description": "Visual Studio Code es un editor de código optimizado para la productividad que, al combinarse con servicios de lenguajes de programación, ofrece la potencia de un entorno de desarrollo integrado (IDE) con la velocidad de un editor de texto. En esta sección, primero describiremos las características de inteligencia de lenguaje de VS Code (como sugerencias, pistas de parámetros y navegación inteligente del código) y luego exploraremos las capacidades fundamentales del editor de texto.",
+              "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation.md",
+              "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+              "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+              "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Accesibilidad",
+                "permalink": "/docs/Guia de Usuario/Accesibilidad/"
+              },
+              "next": {
+                "title": "Emmets en Visual Studio Code",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+              "title": "Emmets en Visual Studio Code",
+              "description": "Emmet es una herramienta que permite escribir código HTML y CSS de forma más rápida y eficiente mediante el uso de abreviaturas o atajos que se expanden automáticamente en estructuras completas. Por ejemplo, al escribir div.container>ul>li*3, se genera un bloque de HTML equivalente a un ` con una lista  que contiene tres elementos `. El soporte para snippets y expansión de Emmet está integrado directamente en Visual Studio Code, sin necesidad de extensiones. Emmet 2.0 es compatible con la mayoría de las acciones de Emmet, incluidas la expansión de abreviaturas y snippets de Emmet.",
+              "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet.md",
+              "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+              "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+              "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Navegación en el código",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation"
+              },
+              "next": {
+                "title": "IntelliSense",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+              "title": "IntelliSense",
+              "description": "IntelliSense es un término general que abarca diversas características de edición de código, como:",
+              "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense.md",
+              "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+              "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+              "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Emmets en Visual Studio Code",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet"
+              },
+              "next": {
+                "title": "Refactorización",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización",
+              "title": "Refactorización",
+              "description": "El refactorizado del código fuente puede mejorar la calidad y mantenibilidad de tu proyecto al reestructurar el código, sin modificar el comportamiento en tiempo de ejecución. Visual Studio Code admite operaciones de refactorización (como Extraer Método y Extraer Variable) para mejorar tu base de código directamente desde el editor.",
+              "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización.md",
+              "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+              "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización",
+              "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "IntelliSense",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense"
+              },
+              "next": {
+                "title": "Snippets en Visual Studio Code",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets",
+              "title": "Snippets en Visual Studio Code",
+              "description": "Los snippets son plantillas que facilitan la entrada de patrones de código repetitivos, como bucles o declaraciones condicionales.",
+              "source": "@site/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets.md",
+              "sourceDirName": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad",
+              "slug": "/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets",
+              "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Refactorización",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización"
+              },
+              "next": {
+                "title": "Edición básica",
+                "permalink": "/docs/Guia de Usuario/Conceptos básicos/Edición básica"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Conceptos básicos/Edición básica",
+              "title": "Edición básica",
+              "description": "Visual Studio Code es, ante todo, un editor e incluye las funciones necesarias para una edición de código fuente altamente productiva. Este tema te guiará a través de los conceptos básicos del editor y te ayudará a comenzar con tu código.",
+              "source": "@site/docs/Guia de Usuario/Conceptos básicos/Edición básica.md",
+              "sourceDirName": "Guia de Usuario/Conceptos básicos",
+              "slug": "/Guia de Usuario/Conceptos básicos/Edición básica",
+              "permalink": "/docs/Guia de Usuario/Conceptos básicos/Edición básica",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Snippets en Visual Studio Code",
+                "permalink": "/docs/Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets"
+              },
+              "next": {
+                "title": "Depuración",
+                "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Depuración"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Depuración y Pruebas/Depuración",
+              "title": "Depuración",
+              "description": "Una de las características clave de Visual Studio Code es su excelente soporte de depuración. El depurador integrado de VS Code ayuda a acelerar tu ciclo de edición, compilación y depuración.",
+              "source": "@site/docs/Guia de Usuario/Depuración y Pruebas/Depuración.md",
+              "sourceDirName": "Guia de Usuario/Depuración y Pruebas",
+              "slug": "/Guia de Usuario/Depuración y Pruebas/Depuración",
+              "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Depuración",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Edición básica",
+                "permalink": "/docs/Guia de Usuario/Conceptos básicos/Edición básica"
+              },
+              "next": {
+                "title": "Pruebas",
+                "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Pruebas"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Depuración y Pruebas/Pruebas",
+              "title": "Pruebas",
+              "description": "Las pruebas de software son un aspecto crucial del proceso de desarrollo. Ayudan a garantizar que tu código funcione como se espera y a detectar errores temprano en el ciclo de desarrollo. Visual Studio Code ofrece un conjunto rico de funciones para realizar pruebas en tu código. Puedes descubrir automáticamente pruebas en tu proyecto, ejecutarlas, depurarlas y obtener resultados de cobertura de pruebas.",
+              "source": "@site/docs/Guia de Usuario/Depuración y Pruebas/Pruebas.md",
+              "sourceDirName": "Guia de Usuario/Depuración y Pruebas",
+              "slug": "/Guia de Usuario/Depuración y Pruebas/Pruebas",
+              "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Pruebas",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Depuración",
+                "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Depuración"
+              },
+              "next": {
+                "title": "Tienda de Extensiones",
+                "permalink": "/docs/Guia de Usuario/Extensiones/Tienda de Extensiones"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Extensiones/Tienda de Extensiones",
+              "title": "Tienda de Extensiones",
+              "description": "Las funcionalidades incluidas en Visual Studio Code de forma predeterminada son solo el comienzo. Las extensiones de VS Code permiten añadir lenguajes, depuradores y herramientas a tu instalación para mejorar tu flujo de trabajo de desarrollo. Su modelo de extensibilidad permite a los desarrolladores de extensiones integrarse directamente en la interfaz de VS Code y contribuir con funciones a través de las mismas API que usa VS Code. Este artículo explica cómo encontrar, instalar y gestionar extensiones de VS Code desde el Mercado de Visual Studio Code (Marketplace).",
+              "source": "@site/docs/Guia de Usuario/Extensiones/Tienda de Extensiones.md",
+              "sourceDirName": "Guia de Usuario/Extensiones",
+              "slug": "/Guia de Usuario/Extensiones/Tienda de Extensiones",
+              "permalink": "/docs/Guia de Usuario/Extensiones/Tienda de Extensiones",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pruebas",
+                "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Pruebas"
+              },
+              "next": {
+                "title": "Workspaces",
+                "permalink": "/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo"
+              }
+            },
+            {
+              "id": "Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+              "title": "Workspaces",
+              "description": "¿Qué es un \"workspace\" en VS Code?",
+              "source": "@site/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo.md",
+              "sourceDirName": "Guia de Usuario/Gestión de Espacios de Trabajo",
+              "slug": "/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+              "permalink": "/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tienda de Extensiones",
+                "permalink": "/docs/Guia de Usuario/Extensiones/Tienda de Extensiones"
+              },
+              "next": {
+                "title": "Introducción a Visual Studio Code",
+                "permalink": "/docs/introduction"
+              }
+            },
+            {
+              "id": "introduction",
+              "title": "Introducción a Visual Studio Code",
+              "description": "Visual Studio Code (VS Code) es un editor de código fuente multiplataforma desarrollado por Microsoft, diseñado para facilitar el desarrollo de software en una amplia variedad de lenguajes y tecnologías. Se caracteriza por ser ligero, altamente personalizable y con soporte integrado para características como control de versiones, resaltado de sintaxis, y herramientas de depuración.",
+              "source": "@site/docs/introduction.md",
+              "sourceDirName": ".",
+              "slug": "/introduction",
+              "permalink": "/docs/introduction",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Workspaces",
+                "permalink": "/docs/Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Guia de Usuario",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Accesibilidad",
+                    "id": "Guia de Usuario/Accesibilidad/Accesibilidad"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Asistencia de Código y Herramientas de Productividad",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/CodeNavigation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Emmet"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Intellisense"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Refactorización"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Asistencia de Código y Herramientas de Productividad/Snippets"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Conceptos básicos",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Conceptos básicos/Edición básica"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Depuración y Pruebas",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Depuración y Pruebas/Depuración"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Depuración y Pruebas/Pruebas"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Extensiones",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Extensiones/Tienda de Extensiones"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Gestión de Espacios de Trabajo",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Guia de Usuario/Gestión de Espacios de Trabajo/Espacios de Trabajo"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "introduction"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/donation",
+        "source": "@site/src/pages/donation.md",
+        "title": "Donation",
+        "description": "Donate to the AnyShake project, your donation is highly appreciated.",
+        "frontMatter": {
+          "title": "Donation",
+          "description": "Donate to the AnyShake project, your donation is highly appreciated.",
+          "hide_table_of_contents": true
+        },
+        "unlisted": false
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

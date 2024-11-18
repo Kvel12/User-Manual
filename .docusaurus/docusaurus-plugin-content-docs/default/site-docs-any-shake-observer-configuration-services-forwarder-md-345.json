@@ -1,0 +1,26 @@
+{
+  "id": "AnyShake Observer/Configuration/Services/forwarder",
+  "title": "Forwarder Settings",
+  "description": "- Key: forwarder",
+  "source": "@site/docs/AnyShake Observer/Configuration/Services/forwarder.md",
+  "sourceDirName": "AnyShake Observer/Configuration/Services",
+  "slug": "/AnyShake Observer/Configuration/Services/forwarder",
+  "permalink": "/docs/AnyShake Observer/Configuration/Services/forwarder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Archiver Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/Services/archiver"
+  },
+  "next": {
+    "title": "SeedLink Settings",
+    "permalink": "/docs/AnyShake Observer/Configuration/Services/seedlink"
+  }
+}

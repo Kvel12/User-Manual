@@ -1,0 +1,19 @@
+{
+  "id": "Guia de Usuario/Extensiones/Extensiones",
+  "title": "Extensiones",
+  "description": "",
+  "source": "@site/docs/Guia de Usuario/Extensiones/Extensiones.md",
+  "sourceDirName": "Guia de Usuario/Extensiones",
+  "slug": "/Guia de Usuario/Extensiones/",
+  "permalink": "/docs/Guia de Usuario/Extensiones/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pruebas",
+    "permalink": "/docs/Guia de Usuario/Depuración y Pruebas/Pruebas"
+  }
+}
