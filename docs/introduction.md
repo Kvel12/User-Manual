@@ -1,23 +1,7 @@
----
-sidebar_position: 1
----
+# Introducción a Visual Studio Code
 
-# Tutorial Introduction
+Visual Studio Code (VS Code) es un editor de código fuente multiplataforma desarrollado por Microsoft, diseñado para facilitar el desarrollo de software en una amplia variedad de lenguajes y tecnologías. Se caracteriza por ser ligero, altamente personalizable y con soporte integrado para características como control de versiones, resaltado de sintaxis, y herramientas de depuración.
 
-Let's discover **AnyShake in less than 5 minutes**.
+Uno de los aspectos más destacados de VS Code es su ecosistema de extensiones, que permite a los desarrolladores añadir funcionalidades específicas, como integración con frameworks, depuradores avanzados, herramientas de productividad y soporte para lenguajes adicionales. Su diseño modular y su interfaz intuitiva lo convierten en una herramienta ideal tanto para principiantes como para profesionales.
 
-## What is AnyShake?
-
-AnyShake is an open-source project that enables you to build a cost-effective seismograph.
-
-## How AnyShake Works?
-
-AnyShake utilizes geophone sensors. The [AnyShake Explorer](https://github.com/anyshake/explorer) collects voltage counts from these sensors, and the [AnyShake Observer](https://github.com/anyshake/observer) parses, verifies, streams, and archives this data.
-
-Geophone sensors measure seismic waves. The AnyShake Explorer employs three geophone sensors to detect seismic activity in three directions (EHZ, EHE, EHN). Each geophone contains a coil and a magnet. As seismic waves pass through the geophone, the magnet moves, generating voltage in the coil. Geophones also have a natural frequency, akin to the resonant frequency of a spring-mass system along their working axis.
-
-## Why Choose AnyShake?
-
-Many homemade seismographs rely on the MPU6050, an accelerometer and gyroscope sensor not designed for seismic wave detection. Hence, it lacks the sensitivity required for accurate seismic measurements. AnyShake, however, uses velocity geophone sensors specifically designed for this purpose, offering greater sensitivity than the MPU6050.
-
-Meanwhile, AnyShake aims to simplify the deployment process, making it easier for users to build their own seismographs. AnyShake Observer is written in Go, a compiled language that can be easily cross-compiled to run on a variety of platforms, which means that AnyShake can run on a wide range of devices, including Raspberry Pi, BeagleBone, and even your router.
+Al combinar potencia, versatilidad y facilidad de uso, Visual Studio Code se ha consolidado como una de las opciones más populares para el desarrollo de software en la actualidad.
