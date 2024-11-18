@@ -1,7 +1,7 @@
 export const siteConfig = {
     base: "/",
-    title: "AnyShake Project",
-    logo: "img/logo.png",
+    title: "Visual Studio Code",
+    logo: "img/Visual-Studio-Logo.png",
     favicon: "img/favicon.ico",
     social: "img/social-card.png",
     url: "https://anyshake.com",

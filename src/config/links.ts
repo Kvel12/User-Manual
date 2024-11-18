@@ -21,11 +21,6 @@ export const linksConfig: ILinkConfig = {
             label: "Documentation",
         },
         {
-            to: "/donation",
-            label: "Donation",
-            position: "left",
-        },
-        {
             label: "GitHub",
             position: "right",
             href: "https://github.com/anyshake",
